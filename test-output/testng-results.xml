@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="50" passed="50" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-10-07T17:16:08 IST" name="Polymer Shop Test Suite" finished-at="2025-10-07T17:33:38 IST" duration-ms="1049836">
+    <groups>
+    </groups>
+    <test started-at="2025-10-07T17:16:08 IST" name="Chrome Tests" finished-at="2025-10-07T17:25:01 IST" duration-ms="533002">
+      <class name="com.ps.automation.tests.ProductDetailTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.ProductDetailTests@57a3e26a]" started-at="2025-10-07T17:17:55 IST" name="setup" finished-at="2025-10-07T17:17:55 IST" duration-ms="364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyProductDetailPageLoad()[pri:1, instance:com.ps.automation.tests.ProductDetailTests@57a3e26a]" started-at="2025-10-07T17:17:55 IST" name="verifyProductDetailPageLoad" description="Verify product detail page loads successfully" finished-at="2025-10-07T17:18:04 IST" duration-ms="9420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductDetailPageLoad -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.ProductDetailTests@57a3e26a]" started-at="2025-10-07T17:18:04 IST" name="tearDown" finished-at="2025-10-07T17:18:05 IST" duration-ms="1077" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.ProductDetailTests@57a3e26a]" started-at="2025-10-07T17:18:05 IST" name="setup" finished-at="2025-10-07T17:18:13 IST" duration-ms="7913" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyProductTitleAndPrice()[pri:2, instance:com.ps.automation.tests.ProductDetailTests@57a3e26a]" started-at="2025-10-07T17:18:13 IST" name="verifyProductTitleAndPrice" description="Verify product title and price are displayed" finished-at="2025-10-07T17:18:23 IST" duration-ms="9831" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductTitleAndPrice -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.ProductDetailTests@57a3e26a]" started-at="2025-10-07T17:18:23 IST" name="tearDown" finished-at="2025-10-07T17:18:24 IST" duration-ms="1215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.ProductDetailTests@57a3e26a]" started-at="2025-10-07T17:18:24 IST" name="setup" finished-at="2025-10-07T17:18:32 IST" duration-ms="7350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyProductImage()[pri:3, instance:com.ps.automation.tests.ProductDetailTests@57a3e26a]" started-at="2025-10-07T17:18:32 IST" name="verifyProductImage" description="Verify product image is displayed" finished-at="2025-10-07T17:18:45 IST" duration-ms="13725" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductImage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.ProductDetailTests@57a3e26a]" started-at="2025-10-07T17:18:45 IST" name="tearDown" finished-at="2025-10-07T17:18:47 IST" duration-ms="1845" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.ProductDetailTests@57a3e26a]" started-at="2025-10-07T17:18:47 IST" name="setup" finished-at="2025-10-07T17:18:57 IST" duration-ms="9228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySizeAndQuantityDropdowns()[pri:4, instance:com.ps.automation.tests.ProductDetailTests@57a3e26a]" started-at="2025-10-07T17:18:57 IST" name="verifySizeAndQuantityDropdowns" description="Verify size and quantity selection dropdowns" finished-at="2025-10-07T17:19:07 IST" duration-ms="10008" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySizeAndQuantityDropdowns -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.ProductDetailTests@57a3e26a]" started-at="2025-10-07T17:19:07 IST" name="tearDown" finished-at="2025-10-07T17:19:07 IST" duration-ms="901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.ProductDetailTests@57a3e26a]" started-at="2025-10-07T17:19:07 IST" name="setup" finished-at="2025-10-07T17:19:14 IST" duration-ms="6670" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyAddToCartFunctionality()[pri:5, instance:com.ps.automation.tests.ProductDetailTests@57a3e26a]" started-at="2025-10-07T17:19:14 IST" name="verifyAddToCartFunctionality" description="Verify add to cart functionality" finished-at="2025-10-07T17:19:34 IST" duration-ms="20094" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddToCartFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.ProductDetailTests@57a3e26a]" started-at="2025-10-07T17:19:34 IST" name="tearDown" finished-at="2025-10-07T17:19:35 IST" duration-ms="916" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ps.automation.tests.ProductDetailTests -->
+      <class name="com.ps.automation.tests.HomePageTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.HomePageTests@376a0d86]" started-at="2025-10-07T17:16:08 IST" name="setup" finished-at="2025-10-07T17:16:21 IST" duration-ms="12494" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyHomePageLoads()[pri:1, instance:com.ps.automation.tests.HomePageTests@376a0d86]" started-at="2025-10-07T17:16:21 IST" name="verifyHomePageLoads" finished-at="2025-10-07T17:16:21 IST" duration-ms="362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageLoads -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.HomePageTests@376a0d86]" started-at="2025-10-07T17:16:21 IST" name="tearDown" finished-at="2025-10-07T17:16:22 IST" duration-ms="992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.HomePageTests@376a0d86]" started-at="2025-10-07T17:16:22 IST" name="setup" finished-at="2025-10-07T17:16:30 IST" duration-ms="8228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyNavigationMenuItems()[pri:2, instance:com.ps.automation.tests.HomePageTests@376a0d86]" started-at="2025-10-07T17:16:30 IST" name="verifyNavigationMenuItems" finished-at="2025-10-07T17:16:31 IST" duration-ms="297" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNavigationMenuItems -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.HomePageTests@376a0d86]" started-at="2025-10-07T17:16:31 IST" name="tearDown" finished-at="2025-10-07T17:16:32 IST" duration-ms="875" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.HomePageTests@376a0d86]" started-at="2025-10-07T17:16:32 IST" name="setup" finished-at="2025-10-07T17:16:41 IST" duration-ms="9203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyProductCategoriesDisplay()[pri:3, instance:com.ps.automation.tests.HomePageTests@376a0d86]" started-at="2025-10-07T17:16:41 IST" name="verifyProductCategoriesDisplay" finished-at="2025-10-07T17:16:41 IST" duration-ms="691" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductCategoriesDisplay -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.HomePageTests@376a0d86]" started-at="2025-10-07T17:16:41 IST" name="tearDown" finished-at="2025-10-07T17:16:43 IST" duration-ms="1236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.HomePageTests@376a0d86]" started-at="2025-10-07T17:16:43 IST" name="setup" finished-at="2025-10-07T17:16:53 IST" duration-ms="10605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySearchFunctionality()[pri:4, instance:com.ps.automation.tests.HomePageTests@376a0d86]" started-at="2025-10-07T17:16:53 IST" name="verifySearchFunctionality" finished-at="2025-10-07T17:16:55 IST" duration-ms="1580" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.HomePageTests@376a0d86]" started-at="2025-10-07T17:16:55 IST" name="tearDown" finished-at="2025-10-07T17:16:58 IST" duration-ms="2623" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.HomePageTests@376a0d86]" started-at="2025-10-07T17:16:58 IST" name="setup" finished-at="2025-10-07T17:17:08 IST" duration-ms="10772" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyFeaturedProductsSection()[pri:5, instance:com.ps.automation.tests.HomePageTests@376a0d86]" started-at="2025-10-07T17:17:08 IST" name="verifyFeaturedProductsSection" finished-at="2025-10-07T17:17:09 IST" duration-ms="257" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFeaturedProductsSection -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.HomePageTests@376a0d86]" started-at="2025-10-07T17:17:09 IST" name="tearDown" finished-at="2025-10-07T17:17:10 IST" duration-ms="1156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ps.automation.tests.HomePageTests -->
+      <class name="com.ps.automation.tests.CheckoutTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.CheckoutTests@4bc222e]" started-at="2025-10-07T17:22:30 IST" name="setup" finished-at="2025-10-07T17:22:44 IST" duration-ms="14054" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyCheckoutNavigation()[pri:1, instance:com.ps.automation.tests.CheckoutTests@4bc222e]" started-at="2025-10-07T17:22:44 IST" name="verifyCheckoutNavigation" description="Verify checkout navigation functionality" finished-at="2025-10-07T17:23:07 IST" duration-ms="23129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCheckoutNavigation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.CheckoutTests@4bc222e]" started-at="2025-10-07T17:23:07 IST" name="tearDown" finished-at="2025-10-07T17:23:08 IST" duration-ms="899" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.CheckoutTests@4bc222e]" started-at="2025-10-07T17:23:08 IST" name="setup" finished-at="2025-10-07T17:23:22 IST" duration-ms="14144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyCheckoutPageLoads()[pri:2, instance:com.ps.automation.tests.CheckoutTests@4bc222e]" started-at="2025-10-07T17:23:22 IST" name="verifyCheckoutPageLoads" description="Verify checkout page loads successfully" finished-at="2025-10-07T17:23:27 IST" duration-ms="5294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCheckoutPageLoads -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.CheckoutTests@4bc222e]" started-at="2025-10-07T17:23:27 IST" name="tearDown" finished-at="2025-10-07T17:23:28 IST" duration-ms="799" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.CheckoutTests@4bc222e]" started-at="2025-10-07T17:23:28 IST" name="setup" finished-at="2025-10-07T17:23:40 IST" duration-ms="12102" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyCheckoutFormPresent()[pri:3, instance:com.ps.automation.tests.CheckoutTests@4bc222e]" started-at="2025-10-07T17:23:40 IST" name="verifyCheckoutFormPresent" description="Verify checkout form is present" finished-at="2025-10-07T17:24:03 IST" duration-ms="22362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCheckoutFormPresent -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.CheckoutTests@4bc222e]" started-at="2025-10-07T17:24:03 IST" name="tearDown" finished-at="2025-10-07T17:24:03 IST" duration-ms="763" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.CheckoutTests@4bc222e]" started-at="2025-10-07T17:24:03 IST" name="setup" finished-at="2025-10-07T17:24:17 IST" duration-ms="13539" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyCheckoutAccessibleWithItems()[pri:4, instance:com.ps.automation.tests.CheckoutTests@4bc222e]" started-at="2025-10-07T17:24:17 IST" name="verifyCheckoutAccessibleWithItems" description="Verify checkout page accessible with cart items" finished-at="2025-10-07T17:24:40 IST" duration-ms="23181" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCheckoutAccessibleWithItems -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.CheckoutTests@4bc222e]" started-at="2025-10-07T17:24:40 IST" name="tearDown" finished-at="2025-10-07T17:24:41 IST" duration-ms="1052" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.CheckoutTests@4bc222e]" started-at="2025-10-07T17:24:41 IST" name="setup" finished-at="2025-10-07T17:24:56 IST" duration-ms="14702" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyCheckoutURL()[pri:5, instance:com.ps.automation.tests.CheckoutTests@4bc222e]" started-at="2025-10-07T17:24:56 IST" name="verifyCheckoutURL" description="Verify checkout URL is correct" finished-at="2025-10-07T17:25:00 IST" duration-ms="4421" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCheckoutURL -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.CheckoutTests@4bc222e]" started-at="2025-10-07T17:25:00 IST" name="tearDown" finished-at="2025-10-07T17:25:01 IST" duration-ms="967" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ps.automation.tests.CheckoutTests -->
+      <class name="com.ps.automation.tests.CartTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.CartTests@75c56eb9]" started-at="2025-10-07T17:19:35 IST" name="setup" finished-at="2025-10-07T17:19:49 IST" duration-ms="13774" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyCartFunctionalityAvailable()[pri:1, instance:com.ps.automation.tests.CartTests@75c56eb9]" started-at="2025-10-07T17:19:49 IST" name="verifyCartFunctionalityAvailable" description="Verify cart functionality is available" finished-at="2025-10-07T17:20:09 IST" duration-ms="19701" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCartFunctionalityAvailable -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.CartTests@75c56eb9]" started-at="2025-10-07T17:20:09 IST" name="tearDown" finished-at="2025-10-07T17:20:09 IST" duration-ms="868" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.CartTests@75c56eb9]" started-at="2025-10-07T17:20:09 IST" name="setup" finished-at="2025-10-07T17:20:23 IST" duration-ms="13602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyAddingProductsToCart()[pri:2, instance:com.ps.automation.tests.CartTests@75c56eb9]" started-at="2025-10-07T17:20:23 IST" name="verifyAddingProductsToCart" description="Verify adding products to cart" finished-at="2025-10-07T17:20:43 IST" duration-ms="19515" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddingProductsToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.CartTests@75c56eb9]" started-at="2025-10-07T17:20:43 IST" name="tearDown" finished-at="2025-10-07T17:20:43 IST" duration-ms="817" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.CartTests@75c56eb9]" started-at="2025-10-07T17:20:43 IST" name="setup" finished-at="2025-10-07T17:20:55 IST" duration-ms="11147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyCartCountUpdates()[pri:3, instance:com.ps.automation.tests.CartTests@75c56eb9]" started-at="2025-10-07T17:20:55 IST" name="verifyCartCountUpdates" description="Verify cart count updates correctly" finished-at="2025-10-07T17:21:14 IST" duration-ms="19803" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCartCountUpdates -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.CartTests@75c56eb9]" started-at="2025-10-07T17:21:14 IST" name="tearDown" finished-at="2025-10-07T17:21:16 IST" duration-ms="1552" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.CartTests@75c56eb9]" started-at="2025-10-07T17:21:16 IST" name="setup" finished-at="2025-10-07T17:21:30 IST" duration-ms="13895" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyEmptyCartState()[pri:4, instance:com.ps.automation.tests.CartTests@75c56eb9]" started-at="2025-10-07T17:21:30 IST" name="verifyEmptyCartState" description="Verify empty cart state" finished-at="2025-10-07T17:21:32 IST" duration-ms="2035" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmptyCartState -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.CartTests@75c56eb9]" started-at="2025-10-07T17:21:32 IST" name="tearDown" finished-at="2025-10-07T17:21:33 IST" duration-ms="1412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.CartTests@75c56eb9]" started-at="2025-10-07T17:21:33 IST" name="setup" finished-at="2025-10-07T17:21:47 IST" duration-ms="13721" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyMultipleProductsAddition()[pri:5, instance:com.ps.automation.tests.CartTests@75c56eb9]" started-at="2025-10-07T17:21:47 IST" name="verifyMultipleProductsAddition" description="Verify multiple products can be added to cart" finished-at="2025-10-07T17:22:29 IST" duration-ms="41894" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMultipleProductsAddition -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.CartTests@75c56eb9]" started-at="2025-10-07T17:22:29 IST" name="tearDown" finished-at="2025-10-07T17:22:30 IST" duration-ms="880" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ps.automation.tests.CartTests -->
+      <class name="com.ps.automation.tests.ProductTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.ProductTests@4b2c5e02]" started-at="2025-10-07T17:17:10 IST" name="setup" finished-at="2025-10-07T17:17:19 IST" duration-ms="9086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyProductGridDisplay()[pri:1, instance:com.ps.automation.tests.ProductTests@4b2c5e02]" started-at="2025-10-07T17:17:19 IST" name="verifyProductGridDisplay" finished-at="2025-10-07T17:17:27 IST" duration-ms="7859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductGridDisplay -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.ProductTests@4b2c5e02]" started-at="2025-10-07T17:17:27 IST" name="setup" finished-at="2025-10-07T17:17:27 IST" duration-ms="796" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyMensOuterwearCategory()[pri:2, instance:com.ps.automation.tests.ProductTests@4b2c5e02]" started-at="2025-10-07T17:17:27 IST" name="verifyMensOuterwearCategory" finished-at="2025-10-07T17:17:31 IST" duration-ms="3314" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMensOuterwearCategory -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.ProductTests@4b2c5e02]" started-at="2025-10-07T17:17:31 IST" name="setup" finished-at="2025-10-07T17:17:31 IST" duration-ms="191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLadiesOuterwearCategory()[pri:3, instance:com.ps.automation.tests.ProductTests@4b2c5e02]" started-at="2025-10-07T17:17:31 IST" name="verifyLadiesOuterwearCategory" finished-at="2025-10-07T17:17:34 IST" duration-ms="2723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLadiesOuterwearCategory -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.ProductTests@4b2c5e02]" started-at="2025-10-07T17:17:34 IST" name="setup" finished-at="2025-10-07T17:17:34 IST" duration-ms="450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyProductTitlesNotEmpty()[pri:4, instance:com.ps.automation.tests.ProductTests@4b2c5e02]" started-at="2025-10-07T17:17:34 IST" name="verifyProductTitlesNotEmpty" finished-at="2025-10-07T17:17:42 IST" duration-ms="7425" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductTitlesNotEmpty -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.ProductTests@4b2c5e02]" started-at="2025-10-07T17:17:42 IST" name="setup" finished-at="2025-10-07T17:17:42 IST" duration-ms="388" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyProductSelection()[pri:5, instance:com.ps.automation.tests.ProductTests@4b2c5e02]" started-at="2025-10-07T17:17:42 IST" name="verifyProductSelection" finished-at="2025-10-07T17:17:55 IST" duration-ms="12533" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductSelection -->
+      </class> <!-- com.ps.automation.tests.ProductTests -->
+    </test> <!-- Chrome Tests -->
+    <test started-at="2025-10-07T17:25:01 IST" name="Firefox Tests" finished-at="2025-10-07T17:33:38 IST" duration-ms="516676">
+      <class name="com.ps.automation.tests.ProductDetailTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.ProductDetailTests@6692b6c6]" started-at="2025-10-07T17:26:34 IST" name="setup" finished-at="2025-10-07T17:26:35 IST" duration-ms="302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyProductDetailPageLoad()[pri:1, instance:com.ps.automation.tests.ProductDetailTests@6692b6c6]" started-at="2025-10-07T17:26:35 IST" name="verifyProductDetailPageLoad" description="Verify product detail page loads successfully" finished-at="2025-10-07T17:26:44 IST" duration-ms="9513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductDetailPageLoad -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.ProductDetailTests@6692b6c6]" started-at="2025-10-07T17:26:44 IST" name="tearDown" finished-at="2025-10-07T17:26:45 IST" duration-ms="828" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.ProductDetailTests@6692b6c6]" started-at="2025-10-07T17:26:45 IST" name="setup" finished-at="2025-10-07T17:26:53 IST" duration-ms="8009" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyProductTitleAndPrice()[pri:2, instance:com.ps.automation.tests.ProductDetailTests@6692b6c6]" started-at="2025-10-07T17:26:53 IST" name="verifyProductTitleAndPrice" description="Verify product title and price are displayed" finished-at="2025-10-07T17:27:03 IST" duration-ms="9765" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductTitleAndPrice -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.ProductDetailTests@6692b6c6]" started-at="2025-10-07T17:27:03 IST" name="tearDown" finished-at="2025-10-07T17:27:03 IST" duration-ms="615" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.ProductDetailTests@6692b6c6]" started-at="2025-10-07T17:27:03 IST" name="setup" finished-at="2025-10-07T17:27:09 IST" duration-ms="5561" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyProductImage()[pri:3, instance:com.ps.automation.tests.ProductDetailTests@6692b6c6]" started-at="2025-10-07T17:27:09 IST" name="verifyProductImage" description="Verify product image is displayed" finished-at="2025-10-07T17:27:22 IST" duration-ms="12663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductImage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.ProductDetailTests@6692b6c6]" started-at="2025-10-07T17:27:22 IST" name="tearDown" finished-at="2025-10-07T17:27:23 IST" duration-ms="1237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.ProductDetailTests@6692b6c6]" started-at="2025-10-07T17:27:23 IST" name="setup" finished-at="2025-10-07T17:27:31 IST" duration-ms="8098" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySizeAndQuantityDropdowns()[pri:4, instance:com.ps.automation.tests.ProductDetailTests@6692b6c6]" started-at="2025-10-07T17:27:31 IST" name="verifySizeAndQuantityDropdowns" description="Verify size and quantity selection dropdowns" finished-at="2025-10-07T17:27:41 IST" duration-ms="9610" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySizeAndQuantityDropdowns -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.ProductDetailTests@6692b6c6]" started-at="2025-10-07T17:27:41 IST" name="tearDown" finished-at="2025-10-07T17:27:42 IST" duration-ms="1611" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.ProductDetailTests@6692b6c6]" started-at="2025-10-07T17:27:42 IST" name="setup" finished-at="2025-10-07T17:27:50 IST" duration-ms="7516" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyAddToCartFunctionality()[pri:5, instance:com.ps.automation.tests.ProductDetailTests@6692b6c6]" started-at="2025-10-07T17:27:50 IST" name="verifyAddToCartFunctionality" description="Verify add to cart functionality" finished-at="2025-10-07T17:28:10 IST" duration-ms="20028" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddToCartFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.ProductDetailTests@6692b6c6]" started-at="2025-10-07T17:28:10 IST" name="tearDown" finished-at="2025-10-07T17:28:11 IST" duration-ms="1147" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ps.automation.tests.ProductDetailTests -->
+      <class name="com.ps.automation.tests.HomePageTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.HomePageTests@bb9e6dc]" started-at="2025-10-07T17:25:01 IST" name="setup" finished-at="2025-10-07T17:25:10 IST" duration-ms="8987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyHomePageLoads()[pri:1, instance:com.ps.automation.tests.HomePageTests@bb9e6dc]" started-at="2025-10-07T17:25:10 IST" name="verifyHomePageLoads" finished-at="2025-10-07T17:25:10 IST" duration-ms="141" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageLoads -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.HomePageTests@bb9e6dc]" started-at="2025-10-07T17:25:10 IST" name="tearDown" finished-at="2025-10-07T17:25:11 IST" duration-ms="731" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.HomePageTests@bb9e6dc]" started-at="2025-10-07T17:25:11 IST" name="setup" finished-at="2025-10-07T17:25:20 IST" duration-ms="9017" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyNavigationMenuItems()[pri:2, instance:com.ps.automation.tests.HomePageTests@bb9e6dc]" started-at="2025-10-07T17:25:20 IST" name="verifyNavigationMenuItems" finished-at="2025-10-07T17:25:20 IST" duration-ms="135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNavigationMenuItems -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.HomePageTests@bb9e6dc]" started-at="2025-10-07T17:25:20 IST" name="tearDown" finished-at="2025-10-07T17:25:21 IST" duration-ms="992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.HomePageTests@bb9e6dc]" started-at="2025-10-07T17:25:21 IST" name="setup" finished-at="2025-10-07T17:25:30 IST" duration-ms="8636" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyProductCategoriesDisplay()[pri:3, instance:com.ps.automation.tests.HomePageTests@bb9e6dc]" started-at="2025-10-07T17:25:30 IST" name="verifyProductCategoriesDisplay" finished-at="2025-10-07T17:25:30 IST" duration-ms="454" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductCategoriesDisplay -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.HomePageTests@bb9e6dc]" started-at="2025-10-07T17:25:30 IST" name="tearDown" finished-at="2025-10-07T17:25:31 IST" duration-ms="699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.HomePageTests@bb9e6dc]" started-at="2025-10-07T17:25:31 IST" name="setup" finished-at="2025-10-07T17:25:41 IST" duration-ms="9362" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySearchFunctionality()[pri:4, instance:com.ps.automation.tests.HomePageTests@bb9e6dc]" started-at="2025-10-07T17:25:41 IST" name="verifySearchFunctionality" finished-at="2025-10-07T17:25:41 IST" duration-ms="361" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySearchFunctionality -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.HomePageTests@bb9e6dc]" started-at="2025-10-07T17:25:41 IST" name="tearDown" finished-at="2025-10-07T17:25:42 IST" duration-ms="1053" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.HomePageTests@bb9e6dc]" started-at="2025-10-07T17:25:42 IST" name="setup" finished-at="2025-10-07T17:25:50 IST" duration-ms="7925" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyFeaturedProductsSection()[pri:5, instance:com.ps.automation.tests.HomePageTests@bb9e6dc]" started-at="2025-10-07T17:25:50 IST" name="verifyFeaturedProductsSection" finished-at="2025-10-07T17:25:50 IST" duration-ms="292" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyFeaturedProductsSection -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.HomePageTests@bb9e6dc]" started-at="2025-10-07T17:25:50 IST" name="tearDown" finished-at="2025-10-07T17:25:51 IST" duration-ms="1249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ps.automation.tests.HomePageTests -->
+      <class name="com.ps.automation.tests.CheckoutTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.CheckoutTests@589da3f3]" started-at="2025-10-07T17:31:06 IST" name="setup" finished-at="2025-10-07T17:31:18 IST" duration-ms="11757" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyCheckoutNavigation()[pri:1, instance:com.ps.automation.tests.CheckoutTests@589da3f3]" started-at="2025-10-07T17:31:18 IST" name="verifyCheckoutNavigation" description="Verify checkout navigation functionality" finished-at="2025-10-07T17:31:41 IST" duration-ms="23118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCheckoutNavigation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.CheckoutTests@589da3f3]" started-at="2025-10-07T17:31:41 IST" name="tearDown" finished-at="2025-10-07T17:31:42 IST" duration-ms="680" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.CheckoutTests@589da3f3]" started-at="2025-10-07T17:31:42 IST" name="setup" finished-at="2025-10-07T17:31:55 IST" duration-ms="12683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyCheckoutPageLoads()[pri:2, instance:com.ps.automation.tests.CheckoutTests@589da3f3]" started-at="2025-10-07T17:31:55 IST" name="verifyCheckoutPageLoads" description="Verify checkout page loads successfully" finished-at="2025-10-07T17:32:01 IST" duration-ms="6182" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCheckoutPageLoads -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.CheckoutTests@589da3f3]" started-at="2025-10-07T17:32:01 IST" name="tearDown" finished-at="2025-10-07T17:32:02 IST" duration-ms="749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.CheckoutTests@589da3f3]" started-at="2025-10-07T17:32:02 IST" name="setup" finished-at="2025-10-07T17:32:15 IST" duration-ms="13793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyCheckoutFormPresent()[pri:3, instance:com.ps.automation.tests.CheckoutTests@589da3f3]" started-at="2025-10-07T17:32:15 IST" name="verifyCheckoutFormPresent" description="Verify checkout form is present" finished-at="2025-10-07T17:32:38 IST" duration-ms="22951" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCheckoutFormPresent -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.CheckoutTests@589da3f3]" started-at="2025-10-07T17:32:38 IST" name="tearDown" finished-at="2025-10-07T17:32:39 IST" duration-ms="618" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.CheckoutTests@589da3f3]" started-at="2025-10-07T17:32:39 IST" name="setup" finished-at="2025-10-07T17:32:52 IST" duration-ms="13403" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyCheckoutAccessibleWithItems()[pri:4, instance:com.ps.automation.tests.CheckoutTests@589da3f3]" started-at="2025-10-07T17:32:52 IST" name="verifyCheckoutAccessibleWithItems" description="Verify checkout page accessible with cart items" finished-at="2025-10-07T17:33:16 IST" duration-ms="23405" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCheckoutAccessibleWithItems -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.CheckoutTests@589da3f3]" started-at="2025-10-07T17:33:16 IST" name="tearDown" finished-at="2025-10-07T17:33:17 IST" duration-ms="1349" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.CheckoutTests@589da3f3]" started-at="2025-10-07T17:33:17 IST" name="setup" finished-at="2025-10-07T17:33:32 IST" duration-ms="14886" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyCheckoutURL()[pri:5, instance:com.ps.automation.tests.CheckoutTests@589da3f3]" started-at="2025-10-07T17:33:32 IST" name="verifyCheckoutURL" description="Verify checkout URL is correct" finished-at="2025-10-07T17:33:36 IST" duration-ms="4417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCheckoutURL -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.CheckoutTests@589da3f3]" started-at="2025-10-07T17:33:36 IST" name="tearDown" finished-at="2025-10-07T17:33:38 IST" duration-ms="1574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ps.automation.tests.CheckoutTests -->
+      <class name="com.ps.automation.tests.CartTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.CartTests@1cd629b3]" started-at="2025-10-07T17:28:11 IST" name="setup" finished-at="2025-10-07T17:28:25 IST" duration-ms="13959" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyCartFunctionalityAvailable()[pri:1, instance:com.ps.automation.tests.CartTests@1cd629b3]" started-at="2025-10-07T17:28:25 IST" name="verifyCartFunctionalityAvailable" description="Verify cart functionality is available" finished-at="2025-10-07T17:28:45 IST" duration-ms="19660" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCartFunctionalityAvailable -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.CartTests@1cd629b3]" started-at="2025-10-07T17:28:45 IST" name="tearDown" finished-at="2025-10-07T17:28:45 IST" duration-ms="901" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.CartTests@1cd629b3]" started-at="2025-10-07T17:28:45 IST" name="setup" finished-at="2025-10-07T17:28:57 IST" duration-ms="11908" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyAddingProductsToCart()[pri:2, instance:com.ps.automation.tests.CartTests@1cd629b3]" started-at="2025-10-07T17:28:57 IST" name="verifyAddingProductsToCart" description="Verify adding products to cart" finished-at="2025-10-07T17:29:17 IST" duration-ms="19681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddingProductsToCart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.CartTests@1cd629b3]" started-at="2025-10-07T17:29:17 IST" name="tearDown" finished-at="2025-10-07T17:29:18 IST" duration-ms="992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.CartTests@1cd629b3]" started-at="2025-10-07T17:29:18 IST" name="setup" finished-at="2025-10-07T17:29:32 IST" duration-ms="13969" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyCartCountUpdates()[pri:3, instance:com.ps.automation.tests.CartTests@1cd629b3]" started-at="2025-10-07T17:29:32 IST" name="verifyCartCountUpdates" description="Verify cart count updates correctly" finished-at="2025-10-07T17:29:52 IST" duration-ms="19672" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCartCountUpdates -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.CartTests@1cd629b3]" started-at="2025-10-07T17:29:52 IST" name="tearDown" finished-at="2025-10-07T17:29:53 IST" duration-ms="1673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.CartTests@1cd629b3]" started-at="2025-10-07T17:29:53 IST" name="setup" finished-at="2025-10-07T17:30:07 IST" duration-ms="13723" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyEmptyCartState()[pri:4, instance:com.ps.automation.tests.CartTests@1cd629b3]" started-at="2025-10-07T17:30:07 IST" name="verifyEmptyCartState" description="Verify empty cart state" finished-at="2025-10-07T17:30:09 IST" duration-ms="2051" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyEmptyCartState -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.CartTests@1cd629b3]" started-at="2025-10-07T17:30:09 IST" name="tearDown" finished-at="2025-10-07T17:30:10 IST" duration-ms="947" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.CartTests@1cd629b3]" started-at="2025-10-07T17:30:10 IST" name="setup" finished-at="2025-10-07T17:30:24 IST" duration-ms="13846" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyMultipleProductsAddition()[pri:5, instance:com.ps.automation.tests.CartTests@1cd629b3]" started-at="2025-10-07T17:30:24 IST" name="verifyMultipleProductsAddition" description="Verify multiple products can be added to cart" finished-at="2025-10-07T17:31:06 IST" duration-ms="41713" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMultipleProductsAddition -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ps.automation.tests.CartTests@1cd629b3]" started-at="2025-10-07T17:31:06 IST" name="tearDown" finished-at="2025-10-07T17:31:06 IST" duration-ms="749" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ps.automation.tests.CartTests -->
+      <class name="com.ps.automation.tests.ProductTests">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.ProductTests@5456afaa]" started-at="2025-10-07T17:25:51 IST" name="setup" finished-at="2025-10-07T17:26:00 IST" duration-ms="8704" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyProductGridDisplay()[pri:1, instance:com.ps.automation.tests.ProductTests@5456afaa]" started-at="2025-10-07T17:26:00 IST" name="verifyProductGridDisplay" finished-at="2025-10-07T17:26:08 IST" duration-ms="8023" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductGridDisplay -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.ProductTests@5456afaa]" started-at="2025-10-07T17:26:08 IST" name="setup" finished-at="2025-10-07T17:26:08 IST" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyMensOuterwearCategory()[pri:2, instance:com.ps.automation.tests.ProductTests@5456afaa]" started-at="2025-10-07T17:26:08 IST" name="verifyMensOuterwearCategory" finished-at="2025-10-07T17:26:11 IST" duration-ms="2419" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyMensOuterwearCategory -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.ProductTests@5456afaa]" started-at="2025-10-07T17:26:11 IST" name="setup" finished-at="2025-10-07T17:26:11 IST" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyLadiesOuterwearCategory()[pri:3, instance:com.ps.automation.tests.ProductTests@5456afaa]" started-at="2025-10-07T17:26:11 IST" name="verifyLadiesOuterwearCategory" finished-at="2025-10-07T17:26:14 IST" duration-ms="2619" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLadiesOuterwearCategory -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.ProductTests@5456afaa]" started-at="2025-10-07T17:26:14 IST" name="setup" finished-at="2025-10-07T17:26:14 IST" duration-ms="396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyProductTitlesNotEmpty()[pri:4, instance:com.ps.automation.tests.ProductTests@5456afaa]" started-at="2025-10-07T17:26:14 IST" name="verifyProductTitlesNotEmpty" finished-at="2025-10-07T17:26:22 IST" duration-ms="7566" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductTitlesNotEmpty -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.ps.automation.tests.ProductTests@5456afaa]" started-at="2025-10-07T17:26:22 IST" name="setup" finished-at="2025-10-07T17:26:22 IST" duration-ms="399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyProductSelection()[pri:5, instance:com.ps.automation.tests.ProductTests@5456afaa]" started-at="2025-10-07T17:26:22 IST" name="verifyProductSelection" finished-at="2025-10-07T17:26:34 IST" duration-ms="12491" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyProductSelection -->
+      </class> <!-- com.ps.automation.tests.ProductTests -->
+    </test> <!-- Firefox Tests -->
+  </suite> <!-- Polymer Shop Test Suite -->
+</testng-results>
